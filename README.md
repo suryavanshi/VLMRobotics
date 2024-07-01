@@ -27,3 +27,7 @@ References:
 [3] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5660981/  
 [4] https://www.researchgate.net/publication/367340136_Implementation_of_a_Mathematical_Model_and_Comparison_of_Control_Algorithms_for_an_Industrial_Robot_Arm  
 [5] https://www.universal-robots.com/in/blog/types-of-robotic-arms/  
+
+## Resources
+- [Wayve Gaia-1](https://wayve.ai/thinking/introducing-gaia1/)
+- [Covariant RFM-1](https://covariant.ai/insights/introducing-rfm-1-giving-robots-human-like-reasoning-capabilities/)
