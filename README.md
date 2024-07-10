@@ -62,6 +62,11 @@ References:
 [8] https://tencent-roboticsx.github.io/lifelike-agility-and-play/  
 [9] https://www.theblifemovement.com/weilan-alpha-dog-if-rolex-made-cyber-dogs/  
 
-## Resources
+## Reinforcement Learning Libraries
+- [cleanrl](https://github.com/vwxyzjn/cleanrl)
+- [pufferlib](https://github.com/PufferAI/PufferLib)
+
+## Blog Posts
 - [Wayve Gaia-1](https://wayve.ai/thinking/introducing-gaia1/)
 - [Covariant RFM-1](https://covariant.ai/insights/introducing-rfm-1-giving-robots-human-like-reasoning-capabilities/)
+- https://neptune.ai/blog/the-best-tools-for-reinforcement-learning-in-python
